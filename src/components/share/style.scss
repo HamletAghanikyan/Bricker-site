@@ -1,0 +1,64 @@
+.media {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+.media h6 {
+    font-size: 20px;
+}
+
+.share-inside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.facebook {
+    width: 295px;
+    height: 150px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(41, 41, 130);
+}
+
+.twitter {
+    width: 295px;
+    height: 150px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(11, 148, 239);
+}
+
+.youtube {
+    width: 295px;
+    height: 150px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(170, 19, 19);
+}
+
+.linkedin {
+    width: 295px;
+    height: 150px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(47, 100, 199);
+}

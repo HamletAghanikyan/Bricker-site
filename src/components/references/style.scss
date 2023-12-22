@@ -1,0 +1,17 @@
+.references {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.references img {
+    max-width: 640px;
+}
+
+.refer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    color: white;
+}

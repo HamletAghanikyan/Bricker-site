@@ -1,0 +1,33 @@
+
+.header-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#14242e;
+    min-height: 100px;
+}
+
+.menu{display: flex;
+align-items: center;
+justify-content: center;}
+
+.menu a{
+    text-decoration: none;
+    color: #7697A2;
+    padding: 15px;
+    transition: 0.3s;
+}
+
+.menu a:hover{
+    color: white;
+    background-color: red;
+}
+
+.menu li{list-style: none;}
+
+.logo{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    padding-left: 30px;
+}

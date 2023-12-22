@@ -1,0 +1,120 @@
+.slide-inside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 550px;
+}
+
+.slide-inside img{
+    max-width: 1300px;
+    position: relative;
+}
+
+.slide-inside h2 {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    font-size: 50px;
+    position: absolute;
+}
+
+.slide-inside p {
+    background-color: white;
+    padding: 10px;
+    font-size: 25px;
+    position: absolute;
+    top: 460px;
+}
+
+.adds {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.adds-inside {
+    display: grid;
+    grid-template-columns: auto auto
+}
+
+.equa {
+    font-size: 60px;
+    background-color: red;
+}
+
+.stack{
+    font-size: 60px;
+    background-color: blue;
+}
+
+.diamond{
+    font-size: 60px;
+    background-color: yellow;
+}
+
+.share{
+    font-size: 60px;
+    background-color: green;
+}
+
+.variants {
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    margin: 0 20px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    gap: 10px;
+}
+
+.variants1 {
+    width: 300px;
+    height: 250px;
+    background-color: blue;
+    margin: 0 20px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    gap: 10px;
+}
+
+.variants2 {
+    width: 300px;
+    height: 250px;
+    background-color: yellow;
+    margin: 0 20px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    gap: 10px;
+}
+
+.variants3 {
+    width: 300px;
+    height: 250px;
+    background-color: green;
+    margin: 0 20px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    gap: 10px;
+}
+
+.picture {
+    width: 650px;
+    height: 520px;
+}
